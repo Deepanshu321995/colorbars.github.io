@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+header{font-family: 'Philosopher', sans-serif;}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+ h2{font-family: 'Philosopher', sans-serif;}
+
+ footer{
+	background: #f2f2f2;
+	padding: 40px 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+footer li{
+	list-style: none;font-size: 18px;
+}
+footer a{
+	text-decoration: none;
+	color: #818181;
+}
+
+footer:hover li{text-underline-position;}
